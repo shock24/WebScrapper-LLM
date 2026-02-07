@@ -1,0 +1,29 @@
+# Web framework
+fastapi
+uvicorn
+python-multipart
+
+# ML and NLP
+torch
+transformers
+sentence-transformers
+accelerate
+
+# Vector database
+faiss-cpu
+
+# Utilities
+numpy
+pydantic
+python-dotenv
+
+# CORS
+starlette
+
+# Internet Search
+requests
+beautifulsoup4
+google-search-results
+
+# Calling
+google-genai
